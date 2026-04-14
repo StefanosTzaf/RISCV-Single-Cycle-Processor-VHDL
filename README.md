@@ -62,6 +62,10 @@ A comprehensive assembly test program was executed to verify every supported ins
 
 ![Behavioral Simulation Waveform](assets/processor_simulation.png)
 
+The instructions that have been saved to Processor Memory (ROM) are as follows:
+
+![Instruction Memory Content](assets/Assembly_test_instructions.png)
+
 ### 2. Timing Analysis
 Post-implementation timing simulations were conducted to identify the **Critical Path**.
 * **Worst Negative Slack (WNS):** 0.433 ns.
